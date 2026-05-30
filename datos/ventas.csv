@@ -1,0 +1,11 @@
+id,producto,cantidad,precio,fecha
+1,Laptop,2,1200,2024-01-15
+2,Mouse,5,25,2024-01-20
+3,Teclado,3,45,2024-02-10
+4,Monitor,1,350,2024-02-15
+5,Laptop,4,1200,2024-03-05
+6,Mouse,8,25,2024-03-10
+7,Auriculares,2,80,2024-04-01
+8,Teclado,6,45,2024-04-15
+9,Monitor,2,350,2024-05-10
+10,Auriculares,3,80,2024-05-20
